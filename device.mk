@@ -466,7 +466,8 @@ PRODUCT_SOONG_NAMESPACES += \
     hardware/google/interfaces \
     hardware/google/pixel \
     hardware/mediatek \
-    hardware/xiaomi
+    hardware/xiaomi \
+    packages/modules/Bluetooth/android/app 
 
 # Thermal
 PRODUCT_PACKAGES += \

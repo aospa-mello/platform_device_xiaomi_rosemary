@@ -463,6 +463,9 @@ PRODUCT_PACKAGES += \
 PRODUCT_PACKAGES += \
     android.hardware.thermal@2.0.vendor
 
+# Target
+TARGET_BOARD_PLATFORM := mt6785
+
 # USB
 PRODUCT_PACKAGES += \
     android.hardware.usb@1.0.vendor \
